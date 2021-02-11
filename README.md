@@ -15,6 +15,6 @@
 
 - Attended 2 days training program on source code management using GIt & GitHub conducted by APSSDC at my college
 
-##Hobbies :
+## Hobbies :
 
--Reading Books
+- Reading Books
